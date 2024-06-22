@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "★彡[ᴠɪʜᴀɴɢᴀ.xx]彡★",
       "required" :true
     },   
      
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+      "value": "ᴠɪʜᴀɴɢᴀ-ᴍᴅ"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :false,    
-      "value": "Asia/Karachi"
+      "value": "Asia/Colombo"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
@@ -65,7 +65,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "94752799279"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -74,17 +74,17 @@
     },
     "OPENAI_API_KEY": {
       "description": "put your OPENAI api key here.Get it from beta.openai.com ",
-      "value": "",
+      "value": "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",
       "required" :false
     }, 
     "ELEVENLAB_API_KEY": {
       "description": "Put your ElevenLab api key here for Aitts. Watch tutorial from https://youtu.be/HCDcdPtkwg4 ",
-      "value": "",
+      "value": "93903aa5e7bfcb7665409fca8d0daa3c",
       "required" :false
     }, 
     "REMOVE_BG_KEY": {
       "description": "put your REMOVE BG KEY here.Get it from removeBg.com ",
-      "value": "",
+      "value": "5qUgfembihLFPPRnb3mvSVL9",
       "required" :false
     },
     "MODE": {
@@ -93,12 +93,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "Vihanga Md",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
+      "value": "★彡[ᴠɪʜᴀɴɢᴀ.xx]彡★",
       "required": false 
     }
   }, 
